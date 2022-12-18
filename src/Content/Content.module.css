@@ -1,0 +1,26 @@
+/*----------row1----------*/
+.row1 {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 3fr);
+}
+
+.text_row1 {
+    max-width: 520px;
+}
+
+.text_row_p {
+    padding-top: 20px;
+}
+
+.input_row1 {
+    padding-top: 20px;
+}
+
+/*----------row2----------*/
+.row2 {
+    padding-left: 120px;
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 3fr);
+}
